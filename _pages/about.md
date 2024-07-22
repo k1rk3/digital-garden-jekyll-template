@@ -4,6 +4,5 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
 
-Feel free to tell the world about what you love! 😍
+I'm Kirke (/ˈkir.ke/), and here are my writings on topics I find interesting: linguistics, biosecurity, physics, and other things. 
